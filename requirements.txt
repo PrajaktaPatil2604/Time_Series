@@ -1,0 +1,11 @@
+pandas
+numpy
+tensorflow
+scikit-learn
+datetime
+matplotlib
+imbalanced-learn
+seaborn
+xgboost
+keras-tcn
+statsmodels
